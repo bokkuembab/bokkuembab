@@ -31,7 +31,7 @@
 <br>
 
 
--  [**인공지능 숫자 인식 프로젝트**](https://github.com/bokkuembab/C-AI-Number-Recognition-Project.git) :
+-  [**인공지능 숫자 인식 프로젝트**](https://github.com/bokkuembab/C-AI-Number-Recognition-Project.git)
 
 ```
     MLP 없이 특징 추출만으로 숫자 인식 후, 다시 추출한 특징을 MLP의 입력으로 사용해 숫자 인식
