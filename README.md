@@ -16,10 +16,10 @@
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-### languages
+## ⚙languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokkuembab&layout=compact&langs_count=8&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-### BOJ
+## 🌟BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddollet)](https://solved.ac/ddollet)
 
 
